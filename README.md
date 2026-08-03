@@ -14,10 +14,12 @@
 
 > **[ Also, open with any suggested stack ]**
 
-## Including documents 
-- [Web-Pricing](./web-apps/budget.md)
-- [Mobile-Pricing](./mobile-apps/budget.md)
-- [Terms & Conditions](./T&C/terms.md)
+## Policy Including Documents 
+- [Web Apps Pricing](./web-apps/budget.md)
+- [Mobile Apps Pricing](./mobile-apps/budget.md)
+- [Terms & Conditions Policy](./T&C/terms.md)
 
 ## Note
 > Visit after analysing the policies above.
+
+> Contact: https://buildwithpuru-pk.vercel.app/

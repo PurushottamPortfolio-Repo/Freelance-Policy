@@ -1,4 +1,4 @@
-# Terms and Conditions
+# Terms and Conditions Policy
 
 > To ensure smooth project execution, the following policy applies during development.
 
@@ -7,6 +7,8 @@
 - **40% Advance** — Project Confirmation
 - **40%** — After Design & Development Completion
 - **20%** — Before Final Deployment
+
+> Development will begins after reciving the complete BRD(Business Requirements Documents) and advance payment.
 
 ## Development Change Policy
 
@@ -56,27 +58,7 @@ Checks include:
 - UI Consistency Check
 - Cross-device Testing
 
-## Future Enhancements
-
-> Future enhancements are quoted separately based on project scope.
-
-Examples include:
-
-- E-Commerce Integration
-- Customer Dashboard
-- Admin Panel
-- CRM Integration
-- Inventory Management
-- Payment Gateway
-- Mobile Application
-- ERP Integration
-- AI Chatbot
-- Multi-language Support
-- Theme Toggle Switch
-- Booking System
-- Advanced Analytics
-
-## Deliverables
+## Deliverables(Included)
 
 - Fully Responsive Website
 - Source Code / Project Files*
@@ -102,6 +84,26 @@ Warranty does **not** include:
 - Design Changes
 - Third-party Subscription Costs
 - Content Creation
+
+## Future Enhancements [ specific charges ]
+
+> Future enhancements are quoted separately based on project scope.
+
+Examples include:
+
+- E-Commerce Integration
+- Customer Dashboard
+- Admin Panel
+- CRM Integration
+- Inventory Management
+- Payment Gateway
+- Mobile Application
+- ERP Integration
+- AI Chatbot
+- Multi-language Support
+- Theme Toggle Switch
+- Booking System
+- Advanced Analytics
 
 ## Notes
 

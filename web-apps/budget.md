@@ -1,5 +1,5 @@
-
 ## Website Type Pricing
+> Prices may vary depending on project complexity and customization.
 
 | Website Type | Timeline | Price |
 |---------------|---------|------:|
@@ -225,7 +225,7 @@ Everything in Standard +
 
 # Notes
 
-- Prices may vary depending on project complexity and timeline.
+- Prices may vary depending on project complexity and customization.
 - Third-party services (hosting, domain, premium plugins, paid APIs, licenses, email services, etc.) are billed separately by clients unless explicitly included in the proposal.
 - Source code is provided unless otherwise agreed in the project contract.
 - Final quotation is shared after requirement analysis.
