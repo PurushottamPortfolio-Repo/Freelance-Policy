@@ -167,11 +167,11 @@ Our pricing is based on:
 | Quote Request System | ₹3,000 – ₹5,000 |
 | Blog System | ₹5,000 – ₹10,000 |
 | Authentication | ₹8,000 – ₹20,000 |
-| Admin Dashboard | ₹25,000 – ₹50,000 |
+| Admin Dashboard | ₹15,000 – ₹30,000 |
 | Product Management | ₹10,000 – ₹30,000 |
 | Payment Gateway | ₹10,000 – ₹30,000 |
-| Search & Filters | ₹3,000 – ₹10,000 |
-| Multi-language | ₹1,000 |
+| Search & Filters | ₹2,000 – ₹10,000 |
+| Multi-language | ₹1,000 - ₹3,000 |
 | Custom Theme Toggle | ₹2,000 |
 | Speed Optimization | ₹5,000 – ₹15,000 |
 | Security Enhancement | ₹5,000 – ₹15,000 |

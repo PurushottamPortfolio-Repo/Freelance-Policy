@@ -8,16 +8,20 @@
 - **40%** — After Design & Development Completion
 - **20%** — Before Final Deployment
 
-> Development will begins after reciving the complete BRD(Business Requirements Documents) and advance payment.
+## Development will only begins after reciving the following requirements : 
+
+- Complete BRD(Business Requirements Documents)
+- Final develpment design/reference
+- 40% Advance payment(Project Confirmation).
 
 ## Development Change Policy
 
-## Before Design Approval
+### Before Design Approval
 
 - Minor UI adjustments — Included
 - Content modifications — Included
 
-## After Design Approval
+### After Design Approval
 
 Minor changes are included such as
 
@@ -32,6 +36,7 @@ Examples
 
 - Adding new pages
 - New dashboard
+- New Forms
 - New modules
 - Feature enhancements
 - Workflow changes
