@@ -2,18 +2,6 @@
 
 > To ensure smooth project execution, the following policy applies during development.
 
-## Payment Terms
-
-- **40% Advance** — Project Confirmation
-- **40%** — After Design & Development Completion
-- **20%** — Before Final Deployment
-
-## Development will only begins after reciving the following requirements : 
-
-- Complete BRD(Business Requirements Documents)
-- Final develpment design/reference
-- 40% Advance payment(Project Confirmation).
-
 ## Development Change Policy
 
 ### Before Design Approval
@@ -43,6 +31,22 @@ Examples
 - Database modifications
 
 These are quoted separately before implementation.
+
+## Payment Terms
+
+- **40% Advance** — Project Confirmation
+- **40%** — After Design & Development Completion
+- **20%** — Before Final Deployment
+
+## Development will only begins after reciving the following requirements : 
+
+- Complete approved BRD (Business Requirements Documents)
+- Final development design/reference
+- 40% Advance payment(Project Confirmation).
+
+<br>
+
+# Features which the websites will consists of after deployment :
 
 ## QA & Verification (Included)
 
