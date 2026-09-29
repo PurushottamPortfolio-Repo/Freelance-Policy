@@ -1,6 +1,6 @@
 # Freelance Project Policy 2026
 
-**Purushottam Kunwar Singh** : [Click to visit profile](https://buildwithpurush-pks.vercel.app/)
+**Purushottam Kumar** : [Click to visit profile](https://buildwithpurush-pks.vercel.app/)
 
 ---
 
@@ -25,14 +25,16 @@ There is no obligation to proceed until the proposal is reviewed and approved.
 
 Project pricing is based on the actual requirements, complexity, features, technology, and timeline.
 
-| Project Type                   | Starting Price |
-| ------------------------------ | -------------: |
-| Landing / One-page Website     |        ₹5,000+ |
-| Small Business Website         |       ₹15,000+ |
-| Professional Business Website  |       ₹30,000+ |
-| Custom Web Application         |       ₹50,000+ |
-| E-commerce / Advanced Platform |       ₹60,000+ |
-| Mobile Application             |   Custom Quote |
+| Website Category | Basic Starting Price | Typical Scope |
+|---|---:|---|
+| **Landing Page** | ₹5,000+ | Single-page responsive website, CTA sections, contact form |
+| **Portfolio Website** | ₹8,000+ | 4–6 pages, portfolio/projects, contact section |
+| **Blog Website** | ₹15,000+ | Blog listing, blog details, categories, search, basic CMS |
+| **Business Website** | ₹15,000+ | 5–10 pages, services, about, contact, forms, responsive UI |
+| **Corporate Website** | ₹20,000+ | 5–10 pages, services, about, contact, forms, responsive UI |
+| **Educational Website** | ₹20,000+ | Courses/programs, faculty, notices, admissions, contact/forms |
+| **E-commerce Website** | ₹30,000+ | Products, cart, checkout, payments, orders, user accounts, admin |
+| **Entertainment / Streaming** | ₹40,000+ | Content listing, media pages, user accounts, subscriptions/streaming features |
 
 Listed prices are starting estimates. The final quotation is determined after reviewing the project requirements.
 
@@ -135,10 +137,8 @@ After the agreed project amount has been paid in full, the final deliverables wi
 
 Depending on the project, handover may include:
 
-* Source code
-* Project files
-* Deployment information
-* Documentation
+* Complete Walkthrough
+* Basic Documentation
 * Configuration information
 * Required access details
 * Basic usage guidance
@@ -178,8 +178,6 @@ Third-party services are the client's responsibility unless specifically include
 
 These may include:
 
-* Domain registration
-* Web hosting
 * Premium plugins or themes
 * Paid APIs
 * Email or SMS services
@@ -290,17 +288,7 @@ A preferred technology can be discussed during project consultation.
 
 ---
 
-## 17. Intellectual Property
-
-Upon full payment, ownership of the agreed custom project deliverables will be transferred to the client according to the project agreement.
-
-Third-party components, open-source software, frameworks, plugins, libraries, fonts, APIs, and other licensed materials remain subject to their respective licences.
-
-Reusable development tools, general techniques, frameworks, templates, and non-client-specific components may remain the property of the freelancer unless otherwise agreed in writing.
-
----
-
-## 18. Security & Credentials
+## 17. Security & Credentials
 
 Client credentials and access information provided for project development will be handled responsibly and used only for the agreed project requirements.
 
@@ -308,7 +296,7 @@ Clients are responsible for maintaining ownership and billing of their third-par
 
 ---
 
-## 19. Portfolio & Project Showcase
+## 18. Portfolio & Project Showcase
 
 Unless confidentiality or non-disclosure terms state otherwise, completed projects may be displayed in the freelancer's portfolio for professional and promotional purposes.
 
@@ -316,7 +304,7 @@ If a project is confidential, portfolio usage will not be made public without th
 
 ---
 
-## 20. Acceptance & Approval
+## 19. Acceptance & Approval
 
 Project milestones, designs, and deliverables may require client approval.
 
@@ -326,7 +314,7 @@ Significant changes requested(CR) after approval may be treated as additional wo
 
 ---
 
-## 21. Professional Commitment
+## 20. Professional Commitment
 
 Every project is handled with a focus on:
 
@@ -342,7 +330,7 @@ The objective is to build a solution that is useful for the client's business, n
 
 ---
 
-## 22. Project Agreement
+## 21. Project Agreement
 
 This policy provides general project guidelines.
 
